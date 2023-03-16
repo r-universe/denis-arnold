@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "AcousticNDLCodeR"]
+	path = AcousticNDLCodeR
+	url = https://github.com/denis-arnold/acousticndlcoder
+	shallow = true
+	registered = true
